@@ -96,7 +96,7 @@
 
   4.2). รันโปรแกรม และบันทึกผลที่ได้
   
-  ![]()
+  ![](https://github.com/Tooktasupaporn/LAB-05/blob/master/lab5-5.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -109,6 +109,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic6.png)
 
   5.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+  ![](https://github.com/Tooktasupaporn/LAB-05/blob/master/lab5-5.PNG?raw=true)
 
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -116,6 +118,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic7.png)
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+  ![]()
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
