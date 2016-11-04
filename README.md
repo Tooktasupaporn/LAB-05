@@ -119,7 +119,7 @@
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
   
-  ![]()
+  ![](https://github.com/Tooktasupaporn/LAB-05/blob/master/lab5-8.PNG?raw=true)
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
@@ -144,3 +144,5 @@
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
+
+![]()
