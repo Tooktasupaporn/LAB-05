@@ -28,13 +28,15 @@
 
  2.4). รันโปรแกรม และบันทึกผลที่ได้
  
- ![]()
+ ![](https://github.com/Tooktasupaporn/LAB-05/blob/master/lab5-2.PNG?raw=true)
 
 
 
 
 
 ###คำถาม 5.1 เครื่องหมาย { }  ในคำสั่ง Console.WriteLine() มีลักษณะการใช้งานอย่างไร
+
+
 <hr>
 <hr>
 <hr>
