@@ -57,7 +57,7 @@
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
  
- ![]()
+ ![](https://github.com/Tooktasupaporn/LAB-05/blob/master/lab5-3.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -71,6 +71,8 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic4.png)
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+  
 <hr>
 <hr>
 <hr>
