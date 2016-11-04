@@ -145,4 +145,4 @@
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
 
-![]()
+![](https://github.com/Tooktasupaporn/LAB-05/blob/master/lab5-9.PNG?raw=true)
