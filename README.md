@@ -110,7 +110,7 @@
 
   5.2). รันโปรแกรม และบันทึกผลที่ได้
   
-  ![](https://github.com/Tooktasupaporn/LAB-05/blob/master/lab5-5.PNG?raw=true)
+  ![](https://github.com/Tooktasupaporn/LAB-05/blob/master/lab5-7.PNG?raw=true)
 
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
