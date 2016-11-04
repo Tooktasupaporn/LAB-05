@@ -15,6 +15,8 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic1.png)
 
   2.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+  ![](https://github.com/Tooktasupaporn/LAB-05/blob/master/lab5-1.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -25,6 +27,8 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic2.png)
 
  2.4). รันโปรแกรม และบันทึกผลที่ได้
+ 
+ ![]()
 
 
 
